@@ -27,3 +27,34 @@ This project is designed for beginners to understand **Java syntax, methods, loo
    ```bash
    git clone https://github.com/your-username/java-console-calculator.git
    cd java-console-calculator
+Compile the Java file:
+
+bash
+Copy code
+javac ConsoleCalculator.java
+Run the program:
+
+bash
+Copy code
+java ConsoleCalculator
+📂 Project Structure
+bash
+Copy code
+java-console-calculator/
+│── ConsoleCalculator.java   # Main source code
+│── README.md                # Project documentation
+🎯 Learning Outcome
+How to use methods in Java
+
+How to take user input using Scanner
+
+How to use loops and switch statements
+
+Error handling (e.g., division by zero)
+
+ 
+
+
+
+
+
