@@ -23,10 +23,7 @@ This project is designed for beginners to understand **Java syntax, methods, loo
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/java-console-calculator.git
-   cd java-console-calculator
+ 
 Compile the Java file:
 
 bash
